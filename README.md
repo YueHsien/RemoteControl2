@@ -1,10 +1,15 @@
 # RemoteControl2
 
 使用Server:Google Cloud Platform 12個月試用期
+
 虛擬機作業系統:Ubuntu
+
 Server IP:http://35.229.75.244
+
 使用語言:Jquery、PHP、Mysql、Go
+
 用途:用於線上遠端控制Nodemcu晶片輸出。
+
 利用SSH開啟命令列。
 
 以下為命令列執行內容:
